@@ -1,36 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Douglas10Holanda 
-rafaballerini
-/
-rafaballerini
-Public
-48
-752
-5.3k
-Code
-Issues
-2
-Pull requests
-4
-Actions
-Projects
-Wiki
-Security
-Insights
-rafaballerini/.github/workflows/cobrinha.yml
-@rafaballerini
-rafaballerini Update cobrinha.yml
-Latest commit d2470b3 on 29 May
- History
- 1 contributor
-26 lines (22 sloc)  589 Bytes
-   
 name: Generate Datas
 
 on:
