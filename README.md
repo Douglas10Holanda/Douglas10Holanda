@@ -1,5 +1,5 @@
 ## Olá, eu me chamo Douglas Holanda!
-- 👤 21 anos de idade
+- 👤 22 anos de idade
 - 🎓 Sistemas de Informação - Universidade Federal do Ceará
 - 💻 Estudando atualmente C++ e Java
 - 🚀 Interesse em: JavaScript e React
