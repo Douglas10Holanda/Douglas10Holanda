@@ -1,8 +1,7 @@
 ## Olá, eu me chamo Douglas Holanda!
 - 👤 22 anos de idade
 - 🎓 Sistemas de Informação - Universidade Federal do Ceará
-- 💻 Estudando atualmente C++ e Java
-- 🚀 Interesse em: JavaScript e React
+- 💻 Estudando atualmente HTML, CSS e JavaScript
 - 💼 E-mail para contato: douglasdasilvaholanda@gmail.com
 
 <div align="center">
