@@ -18,7 +18,6 @@
   <img align="center" alt="Douglas-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Douglas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Douglas-PostGreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="right" alt="LEVI-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/-F1llo2Z2CIAAAAC/levi-ackerman.gif">
 </div>
 
 ##
